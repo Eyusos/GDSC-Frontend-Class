@@ -1,0 +1,139 @@
+
+@font-face {
+    font-family: 'eyu';
+    src: url(CursedTimerUlil-Aznm.ttf);
+}
+
+body{
+    
+    background-color: #1B244A;  
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    gap:21%;
+    
+}
+ 
+.home{
+    
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+    h1{
+        
+       font-family: sans-serif;
+       color: #EEEEEE;
+       font-size: 99px; 
+      
+    }
+    .tit{
+        padding-top: 1px;
+       
+    }
+    .counter{
+      
+        padding-top: 15px;
+        height: 43%;
+        background-color: #080001;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        
+        h1{
+            font-family: eyu;
+            color: #F94F6D;
+            font-size: 199px;
+            justify-content: center;
+            text-align: center;
+        }
+    }
+
+   .button{
+    display: flex;
+    justify-content: center;
+   }
+   #onee,#twoo,#thre{
+    font-family: eyu;
+    font-size: 78px;
+    background-color: #1B244A;
+    margin: 19px;
+    color:  #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 5px;
+   }
+}
+
+
+
+.guest{
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+    h1{
+        font-family: sans-serif;
+        color: #EEEEEE;
+       font-size: 99px; 
+      
+    }
+    .counter{
+        padding-top: 15px;
+        height: 43%;
+        background-color:  #080001;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        
+        h1{
+            font-family: eyu;
+            color: #F94F6D;
+            font-size: 199px;
+            justify-content: center;
+            text-align: center;
+        }
+    }
+
+   .button{
+    display: flex;
+    justify-content: center;
+   }
+   #one,#two,#three{
+    font-family: eyu;
+    font-size: 78px;
+    background-color: #1B244A;
+    margin: 19px;
+    color:  #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 5px;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
